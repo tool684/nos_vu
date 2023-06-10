@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,RTP 1 HD
 http://192.168.1.137:8001/1:0:1:97:65:53:CE40000:0:0:0:
